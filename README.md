@@ -20,7 +20,7 @@ Este projeto é uma aplicação simples de login desenvolvida com Next.js e Type
 Basta clonar o repositório e seguir os passos abaixo:
 
 ```bash
-git clone <https://github.com/haykCAKI/somativapuc_pr>
+git clone https://github.com/haykCAKI/somativapuc_pr
 cd somativapuc_pr
 npm install
 npm run dev
